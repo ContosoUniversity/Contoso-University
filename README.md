@@ -1,4 +1,4 @@
 # DemoRepo
-hello world
-test  
-new line  
+hello world\
+test  \
+new line  \
