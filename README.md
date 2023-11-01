@@ -1,4 +1,3 @@
-# DemoRepo
-hello world\
-test  \
-new line  
+# Contoso University Repo
+
+This repository is for training purposes
